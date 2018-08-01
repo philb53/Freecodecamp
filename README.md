@@ -1,2 +1,2 @@
-# Freecodecam
+# Freecodecamp
 Solutions to Challenges 
