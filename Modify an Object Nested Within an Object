@@ -12,3 +12,5 @@ userActivity.data.online = 45;
 // change code above this line
 
 console.log(userActivity);
+
+// use dot notation to access the ojbect within object.
